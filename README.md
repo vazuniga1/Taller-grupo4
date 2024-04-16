@@ -4,5 +4,5 @@
 
 Implementar un programa de reconocimiento de la maduración de la fruta para cosecha optima, lo cual puede llegar a ser implementado en:
 
-** Sector industrial
-** Aplicación móvil 
+* Sector industrial
+* Aplicación móvil 
