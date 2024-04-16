@@ -6,3 +6,10 @@ Implementar un programa de reconocimiento de la maduración de la fruta para cos
 
 * Sector industrial
 * Aplicación móvil 
+
+## Dataset
+
+
+## Modelo
+
+## Referencias
