@@ -10,7 +10,10 @@ Implementar un programa de reconocimiento de la maduración de la fruta para cos
 * Aplicación móvil 
 
 ## Dataset
+Esta conformado por un total de 277 imagenes de cultivos, las que contienen 2418 imagenes de tomate. Luego se realiza la siguiente división:
 
+* Conjunto de entrenamiento (80%): Abarca 222 imágenes, teniendo 1952 tomates en total.
+* Conjunto de validación (20%): Abarca 55 imágenes, teniendo 466 tomates en total.
 
 ## Modelo
 
