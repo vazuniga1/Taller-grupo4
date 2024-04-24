@@ -1,0 +1,8 @@
+names:
+  - unripe
+  - semi-ripe
+  - fully-ripe
+nc: 3
+path: .
+train: images\train
+val: images\val
