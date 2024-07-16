@@ -18,6 +18,9 @@ Se combinan dos datasets ([1], [2]), por lo que el dataset se conforma por un to
 * Conjunto de test (16%): Abarca 109 imágenes, sin embargo, este conjunto no es utilizado ya que se realizan pruebas sobre imagenes propias. 
 
 ## Modelo
+Para el desarrollo del modelo, se eligió la plataforma Detectron2, que es reconocida por su eficacia en tareas de detección y segmentación de objetos. Esta herramienta facilitó el reconocimiento preciso de los tomates, permitiendo su posterior etiquetado en tres categorías: "Inmaduros", "Semi-maduros" y "Maduros".
+
+En el proceso de entrenamiento, se decidió emplear un total de 2700 épocas, junto con una tasa de aprendizaje de 0.001. Estos parámetros fueron seleccionados tras realizar múltiples pruebas, y se observó que proporcionaron los mejores resultados en términos de precisión y eficiencia en la clasificación de los tomates. Este enfoque permitió optimizar el rendimiento del modelo y mejorar la calidad de las predicciones.
 
 ## Referencias
 
