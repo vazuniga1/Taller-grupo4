@@ -22,4 +22,5 @@ Se combinan dos datasets ([1], [2]), por lo que el dataset se conforma por un to
 ## Referencias
 
 [1] Tsironis V., Bourou S., Stentoumis C. (2020). tomatOD: Evaluation of object detection algorithms on a new real-world tomato dataset. In ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences. Available from https://github.com/up2metric/tomatOD 
+
 [2] Tomato Dataset. (2024). Roboflow Universe. Available from https://universe.roboflow.com/project-qmlqn/tomato-sex1q
